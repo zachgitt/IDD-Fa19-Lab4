@@ -27,8 +27,10 @@ The analog pin 9 sent signals to the servo without any issues.
 The angle is controlled by the length of the pulses. While the speed is dictated by the frequency the servo expects to receive signals.
 
 ## Part C. Integrating input and output
+**Include a photo/movie of your raw circuit in action.** <br>
+[Controller Code](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/controller.ino)
+[![Controlled Servo](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/potent_thumb.png)](https://youtu.be/Zq_3qHS0LtU)
 
-**Include a photo/movie of your raw circuit in action.**
 
 ## Part D. Paper puppet
 
