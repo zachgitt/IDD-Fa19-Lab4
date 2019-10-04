@@ -8,7 +8,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor** <br>
+[Vibration Code]()
 [![Vibration Motor](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/dc_thumb.png)](https://www.youtube.com/watch?v=19w3wgHcua4)
 
 
