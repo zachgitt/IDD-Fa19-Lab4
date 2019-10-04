@@ -15,8 +15,9 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
-
-**a. Which color wires correspond to power, ground and signal?**
+**a. Which color wires correspond to power, ground and signal?** <br>
+[Servo Code](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/DC_Motor.ino)
+[![Servo](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/servo_thumb.png)](https://youtu.be/n4OlXaqBkvw)
 
 ### Part 2. Connect the Servo to your Arduino
 
