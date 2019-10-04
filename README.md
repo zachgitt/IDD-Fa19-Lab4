@@ -16,14 +16,15 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ### Part 1. Connect the Servo to your breadboard
 **a. Which color wires correspond to power, ground and signal?** <br>
-[Servo Code](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/DC_Motor.ino)
+[Servo Code](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/servo.ino)
 [![Servo](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/servo_thumb.png)](https://youtu.be/n4OlXaqBkvw)
 
 ### Part 2. Connect the Servo to your Arduino
+**a. Which Arduino pin should the signal line of the servo be attached to?** <br>
+The analog pin 9 sent signals to the servo without any issues.
 
-**a. Which Arduino pin should the signal line of the servo be attached to?**
-
-**b. What aspects of the Servo code control angle or speed?**
+**b. What aspects of the Servo code control angle or speed?** <br>
+The angle is controlled by the length of the pulses. While the speed is dictated by the frequency the servo expects to receive signals.
 
 ## Part C. Integrating input and output
 
