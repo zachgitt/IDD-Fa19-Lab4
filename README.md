@@ -33,8 +33,10 @@ The angle is controlled by the length of the pulses. While the speed is dictated
 
 
 ## Part D. Paper puppet
+**a. Make a video of your proto puppet.** <br>
+My puppets name is twitchy!
+[![Puppet](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/puppet_thumb.png)](https://youtu.be/1vQOR1-eAT8)
 
-**a. Make a video of your proto puppet.**
 
 ## Part E. Make it your own
 
