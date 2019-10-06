@@ -39,6 +39,9 @@ My puppets name is twitchy!
 
 
 ## Part E. Make it your own
+**a. Make a video of your final design.** <br>
+My puppet (aka Arnold Schwarzenegger) is able to watch and learn how to do pushups in 10 seconds, and then proceeds to do pushups for 10 seconds. 
+[Pushup Code](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/learningPushups.ino)
+[![Pushups](https://github.com/zachgitt/IDD-Fa19-Lab4/blob/master/pushups_thumb.png)](https://youtu.be/00y2Ekb8ZzY)
 
-**a. Make a video of your final design.**
  
